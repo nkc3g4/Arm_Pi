@@ -1,0 +1,7 @@
+build
+devel
+*.pyc
+*.wav
+msc
+*~
+*.swp
